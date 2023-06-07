@@ -1,0 +1,4 @@
+- Hello, I’m Taco
+- Interested in modding games (mainly Terraria and Rogue Legacy 2)
+- I’m currently learning C#
+- How to reach me: Discord - Taco#8261
