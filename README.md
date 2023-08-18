@@ -1,4 +1,4 @@
 - Hello, I’m Taco
+- I like making random small coding projects (mainly Python)
 - Interested in modding games (mainly Terraria and Rogue Legacy 2)
-- I’m currently learning C# and it's use in TModLoader
-- How to reach me: Discord - Taco#8261
+- How to reach me: Discord - taco_con_kvass
