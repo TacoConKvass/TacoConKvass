@@ -13,3 +13,5 @@
   <img src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png" height=35 /> &nbsp;
   <img src="https://www.svgrepo.com/show/354238/python.svg" height=35 /> &nbsp;
 </div>
+
+### [Buy Me a Coffee](https://buymeacoffee.com/tacoconkvass)
