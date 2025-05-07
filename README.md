@@ -12,6 +12,7 @@
   <img src="https://static-00.iconduck.com/assets.00/file-type-zig-icon-512x341-uyjfa95r.png" height=35 /> &nbsp;
   <img src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png" height=35 /> &nbsp;
   <img src="https://www.svgrepo.com/show/354238/python.svg" height=35 /> &nbsp;
+  <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" height=35/> &nbsp;
 </div>
 
 ### [Buy Me a Coffee](https://buymeacoffee.com/tacoconkvass)
