@@ -9,7 +9,7 @@
 ### Hobbysit programmer
 <div align="left">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/52addcaa18dfecb4df77f3ee0753dca6b98187ad/logos/c-sharp.svg" height=35 /> &nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/file-type-zig-icon-512x341-uyjfa95r.png" height=35 /> &nbsp;
+  <img src="https://avatars.githubusercontent.com/u/27973237?s=200&v=4" height=35 /> &nbsp;
   <img src="https://cdn1.iconfinder.com/data/icons/programing-development-7/24/html_html5_web_programing_developer-512.png" height=35 /> &nbsp;
   <img src="https://www.svgrepo.com/show/354238/python.svg" height=35 /> &nbsp;
   <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" height=35/> &nbsp;
