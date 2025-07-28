@@ -16,4 +16,4 @@
 
 ## Finished projects
 1. RL2.ModLoader.Launcher ✔️
-    - A launcher for RL2.ModLoader, providing a UI for enabling/disabling mods, launching the game, ~~searching for mods~~~(feature cancelled). This would allow users to play both vanilla and modded RL2 without much hassle.
+    - A launcher for RL2.ModLoader, providing a UI for enabling/disabling mods, launching the game, ~~searching for mods~~ (feature cancelled). This would allow users to play both vanilla and modded RL2 without much hassle.
