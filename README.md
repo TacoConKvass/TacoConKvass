@@ -15,4 +15,4 @@
   <img src="https://www.rust-lang.org/logos/rust-logo-64x64.png" height=35/> &nbsp;
 </div>
 
-### [SUpport me](https://ko-fi.com/taco_con_kvass)
+### [Support me](https://ko-fi.com/taco_con_kvass)
