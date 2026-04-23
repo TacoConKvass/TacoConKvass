@@ -1,5 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=TacoConKvass&show_icons=true&theme=gotham&rank_icon=github&include_all_commits=true" align="right" />
-
 ### [Taco Con Kvass](https://tacoconkvass.github.io)
 > Contact: </br>
 > \- Discord: taco_con_kvass
